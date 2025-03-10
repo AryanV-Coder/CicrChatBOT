@@ -1,0 +1,834 @@
+[
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How to contact CICR?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Reach us at **cicrjiit128noida@gmail.com** or **contact@cicr.in** for general inquiries. For event support, DM us on Instagram (@cicr_jiit)! \ud83d\udce7"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What's CICR's email?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Reach us at **cicrjiit128noida@gmail.com** or **contact@cicr.in** for general inquiries. For event support, DM us on Instagram (@cicr_jiit)! \ud83d\udce7"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Where to send proposals?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Reach us at **cicrjiit128noida@gmail.com** or **contact@cicr.in** for general inquiries. For event support, DM us on Instagram (@cicr_jiit)! \ud83d\udce7"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Need to email CICR"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Reach us at **cicrjiit128noida@gmail.com** or **contact@cicr.in** for general inquiries. For event support, DM us on Instagram (@cicr_jiit)! \ud83d\udce7"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Where is CICR located?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR is located in **Room 140, Jaypee Institute of Information Technology, Sector 128, Noida**. Workshops are held here or in nearby labs! \ud83c\udfe2"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "CICR lab address?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR is located in **Room 140, Jaypee Institute of Information Technology, Sector 128, Noida**. Workshops are held here or in nearby labs! \ud83c\udfe2"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Room number of CICR?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR is located in **Room 140, Jaypee Institute of Information Technology, Sector 128, Noida**. Workshops are held here or in nearby labs! \ud83c\udfe2"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Where do you conduct workshops?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR is located in **Room 140, Jaypee Institute of Information Technology, Sector 128, Noida**. Workshops are held here or in nearby labs! \ud83c\udfe2"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What's the meaning of life?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "I\u2019m here to help with CICR-related queries! For other questions, email us at **cicrjiit128noida@gmail.com** \ud83d\ude0a"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What's the meaning of life?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Hmm, I specialize in CICR topics. Need help with robotics, events, or projects? Ask away! \ud83d\udee0\ufe0f"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Tell me a joke"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "I\u2019m here to help with CICR-related queries! For other questions, email us at **cicrjiit128noida@gmail.com** \ud83d\ude0a"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Tell me a joke"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Hmm, I specialize in CICR topics. Need help with robotics, events, or projects? Ask away! \ud83d\udee0\ufe0f"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How to cook pasta?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "I\u2019m here to help with CICR-related queries! For other questions, email us at **cicrjiit128noida@gmail.com** \ud83d\ude0a"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How to cook pasta?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Hmm, I specialize in CICR topics. Need help with robotics, events, or projects? Ask away! \ud83d\udee0\ufe0f"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Who won the World Cup?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "I\u2019m here to help with CICR-related queries! For other questions, email us at **cicrjiit128noida@gmail.com** \ud83d\ude0a"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Who won the World Cup?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Hmm, I specialize in CICR topics. Need help with robotics, events, or projects? Ask away! \ud83d\udee0\ufe0f"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Random question"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "I\u2019m here to help with CICR-related queries! For other questions, email us at **cicrjiit128noida@gmail.com** \ud83d\ude0a"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Random question"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Hmm, I specialize in CICR topics. Need help with robotics, events, or projects? Ask away! \ud83d\udee0\ufe0f"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How does CICR use AI?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "I\u2019m not sure about that. For detailed answers, email **cicrjiit128noida@gmail.com** or check our website: https://cicr.in \ud83d\udce9"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How does CICR use AI?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "This might require human help! Contact CICR\u2019s team via email or Instagram for clarification. \ud83d\udcac"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What robotics sensors do you recommend?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "I\u2019m not sure about that. For detailed answers, email **cicrjiit128noida@gmail.com** or check our website: https://cicr.in \ud83d\udce9"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What robotics sensors do you recommend?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "This might require human help! Contact CICR\u2019s team via email or Instagram for clarification. \ud83d\udcac"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Can I join CICR after 2nd year?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "I\u2019m not sure about that. For detailed answers, email **cicrjiit128noida@gmail.com** or check our website: https://cicr.in \ud83d\udce9"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Can I join CICR after 2nd year?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "This might require human help! Contact CICR\u2019s team via email or Instagram for clarification. \ud83d\udcac"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Do you teach Python?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "I\u2019m not sure about that. For detailed answers, email **cicrjiit128noida@gmail.com** or check our website: https://cicr.in \ud83d\udce9"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Do you teach Python?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "This might require human help! Contact CICR\u2019s team via email or Instagram for clarification. \ud83d\udcac"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What is CICR?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR (Creative & Innovative Cell in Robotics) is a robotics and innovation club at JIIT. We focus on hands-on projects in robotics, AI, and automation. Check out our website: https://cicr.in"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Tell me about CICR"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR (Creative & Innovative Cell in Robotics) is a robotics and innovation club at JIIT. We focus on hands-on projects in robotics, AI, and automation. Check out our website: https://cicr.in"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What does CICR do?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR (Creative & Innovative Cell in Robotics) is a robotics and innovation club at JIIT. We focus on hands-on projects in robotics, AI, and automation. Check out our website: https://cicr.in"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What's the purpose of CICR?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR (Creative & Innovative Cell in Robotics) is a robotics and innovation club at JIIT. We focus on hands-on projects in robotics, AI, and automation. Check out our website: https://cicr.in"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What projects is CICR working on?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR\u2019s projects include Robo-Soccer bots, Algo-Benchmaker (https://github.com/CICR-The-Robotics-Hub-of-JIIT-128/Algo-Benchmaker), line-following robots, and autonomous drones. Visit our GitHub for details!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "List CICR's current projects"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR\u2019s projects include Robo-Soccer bots, Algo-Benchmaker (https://github.com/CICR-The-Robotics-Hub-of-JIIT-128/Algo-Benchmaker), line-following robots, and autonomous drones. Visit our GitHub for details!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What robotics projects does CICR have?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR\u2019s projects include Robo-Soccer bots, Algo-Benchmaker (https://github.com/CICR-The-Robotics-Hub-of-JIIT-128/Algo-Benchmaker), line-following robots, and autonomous drones. Visit our GitHub for details!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How do I join CICR?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR recruits 1st-year students as volunteers. Keep an eye on our Instagram (@cicr_jiit) for recruitment announcements during the academic year!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Can first-years join CICR?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR recruits 1st-year students as volunteers. Keep an eye on our Instagram (@cicr_jiit) for recruitment announcements during the academic year!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What's the recruitment process?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR recruits 1st-year students as volunteers. Keep an eye on our Instagram (@cicr_jiit) for recruitment announcements during the academic year!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How to become a member?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR recruits 1st-year students as volunteers. Keep an eye on our Instagram (@cicr_jiit) for recruitment announcements during the academic year!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What is Techtonic?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Techtonic is CICR\u2019s annual 3-day robotics workshop for 1st-year students. You\u2019ll learn ROS, Arduino, and build projects like line-following robots. Every year there is set of unique topics. Details: https://techtonic.cicr.in"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Tell me about the 3-day workshop"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Techtonic is CICR\u2019s annual 3-day robotics workshop for 1st-year students. You\u2019ll learn ROS, Arduino, and build projects like line-following robots. Every year there is set of unique topics. Details: https://techtonic.cicr.in"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What happens at Techtonic?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Techtonic is CICR\u2019s annual 3-day robotics workshop for 1st-year students. You\u2019ll learn ROS, Arduino, and build projects like line-following robots. Every year there is set of unique topics. Details: https://techtonic.cicr.in"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What is Algo-Benchmaker?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Algo-Benchmaker (GitHub: https://github.com/CICR-The-Robotics-Hub-of-JIIT-128/Algo-Benchmaker) is a C++ toolbox to benchmark algorithms like A* and Dijkstra for robotics. It visualizes paths and compares performance metrics."
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Explain the benchmarking tool"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Algo-Benchmaker (GitHub: https://github.com/CICR-The-Robotics-Hub-of-JIIT-128/Algo-Benchmaker) is a C++ toolbox to benchmark algorithms like A* and Dijkstra for robotics. It visualizes paths and compares performance metrics."
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How does the pathfinding tool work?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Algo-Benchmaker (GitHub: https://github.com/CICR-The-Robotics-Hub-of-JIIT-128/Algo-Benchmaker) is a C++ toolbox to benchmark algorithms like A* and Dijkstra for robotics. It visualizes paths and compares performance metrics."
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Which competitions does CICR participate in?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR competes in Techfest (IIT Bombay), Plinth '25, IIT Kanpur Techfest, and more. Follow our socials for updates!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Has CICR won any robotics contests?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR competes in Techfest (IIT Bombay), Plinth '25, IIT Kanpur Techfest, and more. Follow our socials for updates!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What events does CICR compete in?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "CICR competes in Techfest (IIT Bombay), Plinth '25, IIT Kanpur Techfest, and more. Follow our socials for updates!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How does CICR manage hardware?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Use inventory.cicr.in to reserve sensors, motors, and tools. Log in with your CICR credentials to check availability, though if you are not a club member than you need to contact the management team."
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "What is inventory.cicr.in?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Use inventory.cicr.in to reserve sensors, motors, and tools. Log in with your CICR credentials to check availability, though if you are not a club member than you need to contact the management team."
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How to borrow robotics components?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Use inventory.cicr.in to reserve sensors, motors, and tools. Log in with your CICR credentials to check availability, though if you are not a club member than you need to contact the management team."
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I need help with a robotics event"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Reach out to CICR\u2019s management team at [email] or DM us on Instagram (@cicr_jiit). Include your event proposal!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How to host an event with CICR?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Reach out to CICR\u2019s management team at [email] or DM us on Instagram (@cicr_jiit). Include your event proposal!"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Can CICR sponsor my workshop?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Reach out to CICR\u2019s management team at [email] or DM us on Instagram (@cicr_jiit). Include your event proposal!"
+        }
+      ]
+    }
+  ]
