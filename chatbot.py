@@ -33,7 +33,7 @@ for message in st.session_state.messages: #st.session_state.messages is a [{},{}
 
 
 
-if prompt := st.chat_input("Hey ! Chat with us"): # := assigns chat_input to prompt and checks if the prompt is not None in a single line
+if prompt := st.chat_input("Hey ! Chat with me"): # := assigns chat_input to prompt and checks if the prompt is not None in a single line
     with st.chat_message("user",avatar=userImage):
         st.markdown(prompt)
 
