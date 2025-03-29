@@ -15,7 +15,7 @@ if "messages" not in st.session_state and "cicrData" not in st.session_state:
     st.session_state.messages = [{"role" : "assistant","parts":[{"text":"Hey I am here to help you with CICR related queries !!",'avatar':assistantImage}]}]
     st.session_state.cicrData = cicrData
 
-genai.configure(api_key="AIzaSyDJZN6sy41nOxU2qp9aqZ9qYNKQoqGM8zU")
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 model = genai.GenerativeModel("gemini-2.0-flash-lite")
 chat = model.start_chat(history=st.session_state.cicrData)
 
